@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1, 
+    "title": "V-STAR CUSTOM MIDNIGHT",
+    "status": "Certified",                  
+    "category": "2007 YAMAHA",    
+    "mileage": 5200,
+    "isRumbleOnBike": true,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://d1yjuhtlaqyg7l.cloudfront.net/modelimages/2007-YAMAHA-CVSTARCUSTOMMIDNIGHT.png"
+  },
+  {
+    "id": 2, 
+    "title": "VTX1300S7",
+    "status": "Listed",                  
+    "category": "HONDA",    
+    "mileage": 2100,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/f48d1a3779fb4d7cb23c9ac618abeb00.jpg"
+  },
+  {
+    "id": 3, 
+    "title": "C V-STAR TOURER",
+    "status": "Certified",                  
+    "category": "Yamaha",    
+    "mileage": 15200,
+    "isRumbleOnBike": true,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/9e6cc28b0c7549f29303cd7990f20a17.jpg"
+  },
+  {
+    "id": 4, 
+    "title": "SHADOW SPIRIT",
+    "status": "Listed",                  
+    "category": "Honda",    
+    "mileage": 52200,
+    "isRumbleOnBike": true,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/94f06200a27f40418dc0cd66775d7f0a.jpg"
+  },
+  {
+    "id": 5, 
+    "title": "VT750C29 SHADOW SPIRIT",
+    "status": "Certified",                  
+    "category": "Harley",    
+    "mileage": 1812,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/03a34de90e1c49a38d13aa13203e9bc1.jpg"
+  },
+  {
+    "id": 6, 
+    "title": "2006 HONDA VTX1300R6",
+    "status": "Certified",                  
+    "category": "Harley",    
+    "mileage": 22200,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/a8b4b4ebfb8144f196d548ad526f6f80.jpg"
+  },
+  {
+    "id": 7, 
+    "title": "V-STAR CUSTOM MIDNIGHT",
+    "status": "Certified",                  
+    "category": "2007 YAMAHA",    
+    "mileage": 5200,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://d1yjuhtlaqyg7l.cloudfront.net/modelimages/2007-YAMAHA-CVSTARCUSTOMMIDNIGHT.png"
+  },
+  {
+    "id": 8, 
+    "title": "VTX1300S7",
+    "status": "Listed",                  
+    "category": "HONDA",    
+    "mileage": 2100,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/f48d1a3779fb4d7cb23c9ac618abeb00.jpg"
+  },
+  {
+    "id": 9, 
+    "title": "XVZ13CTT/C ROYAL STAR TOURER DELUXE",
+    "status": "Certified",                  
+    "category": "Yamaha",    
+    "mileage": 5200,
+    "isRumbleOnBike": true,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/6e2cc28b0e694ce8b7f8329be39feb2a.jpg"
+  },
+  {
+    "id": 10, 
+    "title": "FZ6RZB/C RAVEN",
+    "status": "Listed",                  
+    "category": "Honda",    
+    "mileage": 1200,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/Content/images/no_image.png"
+  },
+  {
+    "id": 11, 
+    "title": "VT750C29 SHADOW SPIRIT",
+    "status": "Certified",                  
+    "category": "Harley",    
+    "mileage": 1812,
+    "isRumbleOnBike": false,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2127273/640x480/03a34de90e1c49a38d13aa13203e9bc1.jpg"
+  },
+  {
+    "id": 12, 
+    "title": "2014 Yamaha Bolt",
+    "status": "Certified",                  
+    "category": "Yamaha",    
+    "mileage": 22200,
+    "isRumbleOnBike": true,
+    "image": "https://www.rumbleon.com/HttpImageHandler.ashx?makeTypeId=1&bucketId=5&isMobile=1&imageUrl=https://content.homenetiol.com/2001817/2132663/640x480/634995c2002d4742b0b2cf54b2d5f7b9.jpg"
+  }
+]
